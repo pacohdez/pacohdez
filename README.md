@@ -17,5 +17,7 @@
 
 ---
 
-📫 **Conéctate conmigo:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-hernández-cabrera)
+📫 **Conéctate conmigo:**
+<p align="center">
+<a href="https://www.linkedin.com/in/francisco-hernández-cabrera" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-hernández-cabrera" height="40" width="50" /></a>
+</p>
